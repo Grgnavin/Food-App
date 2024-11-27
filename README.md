@@ -72,7 +72,6 @@ Food-App is a full-stack TypeScript-based web application that allows users to b
 
 Clone the repository to your local machine:
 
-
 git clone https://github.com/Grgnavin/Food-App.git
 
 ### For Frontend:
@@ -89,8 +88,8 @@ git clone https://github.com/Grgnavin/Food-App.git
 
 3. Run the project:
     ```bash
-    npm run dev
-    `
+    npm start
+    ```
 
 ### For Backend:
 
@@ -106,8 +105,8 @@ git clone https://github.com/Grgnavin/Food-App.git
 
 3. Run the project:
     ```bash
-    npm run dev
-    ``
+    npm start
+    ```
 
 ### Environment Variables
 
@@ -123,15 +122,11 @@ CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
 CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
-The backend will be available at `http://localhost:8000`, and the frontend will be available at `http://localhost:5173`.
+The backend will be available at `http://localhost:8000`, and the frontend will be available at `http://localhost:8000`.
 
 ## Deployment
 
 You can deploy both the frontend and backend to platforms like **Heroku**, **Netlify**, or **Vercel**. Make sure to update the environment variables for production and configure your Stripe and Cloudinary keys accordingly.
-
-## Contributing
-
-Feel free to fork the repository, create issues, or submit pull requests to contribute to the project.
 
 ### Steps for Contributing:
 
@@ -141,6 +136,19 @@ Feel free to fork the repository, create issues, or submit pull requests to cont
 4. Push the branch to your forked repository (`git push origin feature-branch`).
 5. Create a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Author
+
+[Grgnavin](https://github.com/Grgnavin)
+
+---
+
+### Customizations:
+
+- **Project Description**: Update the "Description" part at the top based on the exact features of your app.
+- **Technologies Used**: Adjust the list to match the exact tools you're using.
+- **Environment Variables**: Ensure the `.env` sections are correct for your actual setup.
+- **Deployment**: Add more specifics if you're deploying to specific platforms.
+
+Let me know if you need further adjustments!
+
