@@ -72,7 +72,7 @@ Food-App is a full-stack TypeScript-based web application that allows users to b
 
 Clone the repository to your local machine:
 
-```bash
+
 git clone https://github.com/Grgnavin/Food-App.git
 
 ### For Frontend:
