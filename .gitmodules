@@ -2,5 +2,6 @@
 	path = client
 	url = https://github.com/Grgnavin/Food-App-FE.git
 [submodule "server"]
-	path = server
-	url = https://github.com/Grgnavin/Food-App-BE-.git
+    path = server
+    url = https://github.com/Grgnavin/Food-App-BE-.git
+
