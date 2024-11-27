@@ -115,7 +115,6 @@ Make sure to create `.env` files for both the client and server with the necessa
 
 #### Example `.env` for Backend:
 
-```makefile
 PORT=5000
 DB_URI=your_mongo_database_uri
 JWT_SECRET=your_jwt_secret_key
