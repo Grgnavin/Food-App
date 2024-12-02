@@ -10,23 +10,6 @@ Food-App is a full-stack TypeScript-based web application that allows users to b
 ![Video](https://img.youtube.com/vi/rCgHp0GwUwM/0.jpg)
 [Click Here](https://www.youtube.com/watch?v=rCgHp0GwUwM)
 
-## Features
-
-### Frontend
-- User-friendly interface to browse food categories, menu items, and restaurants.
-- **Search functionality**: Users can search for restaurants based on their location or food preferences.
-- **Restaurant exploration**: Users can explore restaurants by checking their menus, ratings, and details.
-- **Order placement**: Users can select and order their favorite meals directly from restaurants.
-- **Stripe Integration**: Secure payment gateway to handle orders and process payments online.
-- Ability to create an account, log in, and manage user information.
-- Responsive design using **Tailwind CSS** for a smooth mobile and desktop experience.
-
-### Backend
-- **REST API**: Handles requests from the frontend to fetch food, restaurant, and user data.
-- **Authentication**: Secure login system using **JWT** (JSON Web Tokens) for user authentication and session management.
-- **Database interaction**: MongoDB is used to store user profiles, order details, restaurant data, and menu items.
-- **Routes management**: Backend routes manage food items, restaurant details, and user profiles.
-
 ## Technologies Used
 
 ### Frontend
