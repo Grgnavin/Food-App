@@ -5,10 +5,10 @@ Food-App is a full-stack TypeScript-based web application that allows users to b
 - **Frontend**: A React-based application that handles the user interface and interaction.
 - **Backend**: A Node.js application that handles the server-side logic, including data storage, authentication, and API requests.
 
-##Watch the video Here
+## Watch the video Here
 
 ![Video](https://img.youtube.com/vi/rCgHp0GwUwM/0.jpg)
-[Watch Video](https://www.youtube.com/watch?v=rCgHp0GwUwM)
+[Click Here](https://www.youtube.com/watch?v=rCgHp0GwUwM)
 
 ## Features
 
